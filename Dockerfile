@@ -1,1 +1,1 @@
-FROM servitome/servito-app:latest
+FROM servitome/servito-app:prod
