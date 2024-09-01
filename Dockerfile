@@ -1,2 +1,1 @@
-#Deployment 40
-FROM servitome/servito-app:latest
+FROM servitome/servito-app:staging-1.0.0
